@@ -9,7 +9,7 @@
 然后 安装Curl和JQ
 
 最后执行命令
-- 检测命令 `bash <(curl -sSL "https://github.com/CoiaPrant/MediaUnlock_Test/raw/main/check.sh")`
+- 检测命令 `bash <(curl -sSL "https://github.com/ota1-letzgame/MediaUnlock_Test/raw/main/check.sh")`
 
 ## 特性
 - 支持双栈测试
